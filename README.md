@@ -2,21 +2,21 @@ Business360
 -
 ---
 
+
 Project Overview
 -
----
 
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBI in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
 
-### [Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiZGE0MmRmOTktY2IwNS00ZDFmLTg0ZGMtM2ZiZmZlOGQwNmMyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection576f41b32486005b427a)
+[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiZGE0MmRmOTktY2IwNS00ZDFmLTg0ZGMtM2ZiZmZlOGQwNmMyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection576f41b32486005b427a)
+-
 
----
 
 
 💻 Tech Stack:
 -
----
+
 
 ![Static Badge](https://img.shields.io/badge/SQL%2FMySQL-%236600ff?labelColor=%236600ff)
 ![Static Badge](https://img.shields.io/badge/PowerBI-yellow)
@@ -29,7 +29,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 PowerBI techniques learnt
 -
----
+
 - What are all the questions should be asked before staring the project
 - Creating calculated columns
 - Creating measure using DAX language
@@ -52,7 +52,7 @@ PowerBI techniques learnt
 
 GitHub 
 -
----
+
 ```
 Uploading Large size files using GitHub LFS
 Tracking the particular type of file extensions for LFS
@@ -61,7 +61,6 @@ Tracking the particular type of file extensions for LFS
 
 Business related terms
 -
----
 
 - Gross price
 - Pre-invoice deductions
@@ -80,7 +79,7 @@ Business related terms
 
 Company’s back ground
 -
----
+
 AltiQ hardware is a company which has grown vastly in the recent years, and opened business all over the globe. It is a company which sells, computer and computer accessories through three mediums/channel
 
 > - Retailers 
@@ -93,7 +92,7 @@ Recently the company has faced a unforeseen loss by opening store in America bas
 
 Questions to ask before starting with dashboard
 -
----
+
 
 - What is the objective of building this PowerBI dashboard?
 - In what terms the success of this project will be measured?
@@ -111,7 +110,7 @@ After the project kick off meetings, the data engineering team has given the dat
 
 Dataset Understanding
 -
----
+
 
 Understanding what data is available will be more helpful while doing analysis. Before jumping on to the analysis get good understanding of what are data available.
 
@@ -176,13 +175,13 @@ Fact table : It will have the data about the transactions.
 
 Importing data into PowerBI
 -
----
+
 
 - As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBI by providing the Database access credential.
 
 Data Model
 -
----
+
 
 - Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
 - Poor data modeling affects the over all performance of the report.
@@ -193,13 +192,12 @@ Data Model
 
 Dashboard designing
 -
----
+
 
 Based on the mock-ups received as requirement, The team will commence the design of visuals and implement measures as needed.
 
 ## Home view
 
----
 
 In Home view, all the views button will be available. User will land on specific view page by clicking the button 
 
@@ -212,6 +210,7 @@ In Home view, all the views button will be available. User will land on specific
 - Support
 
 ## Demo Report Video :
+---
 
 https://github.com/VkasRajpurohit/Business360/assets/82312234/15b2e5b9-0f5f-40d0-8537-619caa0e80c0
 
@@ -219,34 +218,33 @@ https://github.com/VkasRajpurohit/Business360/assets/82312234/15b2e5b9-0f5f-40d0
 
 ## Home Page
 
----
 
 ![Homepage](https://github.com/VkasRajpurohit/Demo/assets/82312234/9c85d471-e36c-4760-a2f1-dc467df14064)
 
 ## Finance View
 
----
+
 ![Finance View](https://github.com/VkasRajpurohit/Demo/assets/82312234/4a24fdcb-45c1-4202-bb73-c632ec55dfd5)
 
 
 ## Sales View
 
----
+
 ![Sales View](https://github.com/VkasRajpurohit/Demo/assets/82312234/8f80d881-c39e-4807-93ab-3699146bbe03)
 
 ## Marketing View
 
----
+
 ![Marketing View](https://github.com/VkasRajpurohit/Demo/assets/82312234/920001a7-7004-44f5-8e42-00370353783f)
 
 ## Supply chain View
 
----
+
 ![Supply Chain View](https://github.com/VkasRajpurohit/Demo/assets/82312234/99bbab5d-aea5-4fd8-8657-f63da176e3d2)
 
 ## Executive View
 
----
+
 ![Executive View](https://github.com/VkasRajpurohit/Demo/assets/82312234/92f560c9-7dea-473c-895a-21c1df20d824)
 
 
