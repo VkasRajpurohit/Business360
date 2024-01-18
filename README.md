@@ -211,11 +211,11 @@ In Home view, all the views button will be available. User will land on specific
 - Executive View
 - Support
 
-## Demo Report Video : 
+## Demo Report Video :
+
+https://github.com/VkasRajpurohit/Business360/assets/82312234/15b2e5b9-0f5f-40d0-8537-619caa0e80c0
 
 ---
-
-https://github.com/VkasRajpurohit/Demo/assets/82312234/0b723556-0795-4bf7-a3eb-2c5dee9dd89d
 
 ## Home Page
 
