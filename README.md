@@ -215,7 +215,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ---
 
-![Demo Report Video](https://github.com/VkasRajpurohit/Demo/assets/82312234/0b723556-0795-4bf7-a3eb-2c5dee9dd89d)
+https://github.com/VkasRajpurohit/Demo/assets/82312234/0b723556-0795-4bf7-a3eb-2c5dee9dd89d
 
 ## Home Page
 
