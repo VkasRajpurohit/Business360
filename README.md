@@ -250,7 +250,7 @@ In Home view, all the views button will be available. User will land on specific
 ![Executive View](https://github.com/VkasRajpurohit/Demo/assets/82312234/92f560c9-7dea-473c-895a-21c1df20d824)
 
 
-you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
+You can find the full report file here : [Report](https://github.com/VkasRajpurohit/Business360/tree/main/Report)
 
 
 ## Project Outcome
