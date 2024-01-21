@@ -18,9 +18,9 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 -
 
 
-![Static Badge](https://img.shields.io/badge/SQL%2FMySQL-%236600ff?labelColor=%236600ff)
-![Static Badge](https://img.shields.io/badge/PowerBI-yellow)
-![Static Badge](https://img.shields.io/badge/Excel-asd)
+![SQL/MySQL](https://img.shields.io/badge/-SQL%2FMySQL-blue?logo=mysql&labelColor=ffc6ff&color=ffc6ff)
+![PowerBI](https://img.shields.io/badge/-PowerBI-blue?logo=powerbi&labelColor=ffffff&color=ffffff)
+![Excel](https://img.shields.io/badge/-Excel-g?logo=microsoftexcel&labelColor=2a9134&color=2a9134)
 ![Static Badge](https://img.shields.io/badge/DAX---language-blue?labelColor=%20%23ff8000)
 ![Static Badge](https://img.shields.io/badge/DAX---Studio-blue?labelColor=%23cc0099)
 ![Static Badge](https://img.shields.io/badge/Project%20Charter---file-red?style=flat&labelColor=%2300e673)
